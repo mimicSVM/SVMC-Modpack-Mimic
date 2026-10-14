@@ -1,0 +1,34 @@
+{
+  "nombre": "KEORPG-mimicsv",
+  "minecraft": "1.21.1",
+  "loader": {
+    "tipo": "neoforge",
+    "version": "21.1.248"
+  },
+  "servidor": "tu-dominio-o-ip:25565",
+  "ramRecomendadaMB": 8192,
+  "mensaje": "Bienvenido al servidor",
+  "carpetasEstrictas": [
+    "mods"
+  ],
+  "soloSiNoExiste": [
+    "config/**",
+    "options.txt",
+    "resourcepacks/**",
+    "shaderpacks/**",
+    "manifest.json",
+    "minecraftinstance.json",
+    "modlist.html"
+  ],
+  "ignorar": [
+    "*.md",
+    ".gitignore",
+    ".gitattributes",
+    "manifest.json",
+    "modlist.html"
+  ],
+  "colores": {
+    "principal": "#ff6a00"
+  },
+  "reglas": "# Reglas\n- Respeto ante todo\n- Nada de trampas"
+}
