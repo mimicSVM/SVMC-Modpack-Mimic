@@ -1,0 +1,40 @@
+{
+  "nombre": "KEORPG",
+  "minecraft": "1.20.1",
+  "loader": {
+    "tipo": "forge",
+    "version": "47.4.0"
+  },
+  "servidor": "tu-dominio-o-ip:25565",
+  "ramRecomendadaMB": 8192,
+  "mensaje": "Bienvenido al servidor",
+  "carpetasEstrictas": [
+    "mods",
+    "kubejs/**"
+  ],
+  "soloSiNoExiste": [
+    "config/**",
+    "defaultconfigs/**",
+    "emotes/**",
+    "options.txt",
+    "resourcepacks/**",
+    "shaderpacks/**",
+    "manifest.json",
+    "minecraftinstance.json",
+    "modlist.html",
+    "quests_structures/**",
+    "scripts/**",
+    "tacz/**"
+  ],
+  "ignorar": [
+    "*.md",
+    ".gitignore",
+    ".gitattributes",
+    "manifest.json",
+    "modlist.html"
+  ],
+  "colores": {
+    "principal": "#ff6a00"
+  },
+  "reglas": "# Reglas\n- Respeto ante todo\n- Nada de trampas"
+}
