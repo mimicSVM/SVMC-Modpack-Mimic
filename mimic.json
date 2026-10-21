@@ -5,7 +5,7 @@
     "tipo": "forge",
     "version": "47.4.0"
   },
-  "servidor": "tu-dominio-o-ip:25565",
+  "servidor": "mimicz.playit.plus",
   "ramRecomendadaMB": 8192,
   "mensaje": "Bienvenido al servidor",
   "carpetasEstrictas": [
