@@ -5,7 +5,7 @@
     "tipo": "neoforge",
     "version": "21.1.248"
   },
-  "servidor": "tu-dominio-o-ip:25565",
+  "servidor": "mimicsv.playit.plus",
   "ramRecomendadaMB": 8192,
   "mensaje": "Bienvenido al servidor",
   "carpetasEstrictas": [
